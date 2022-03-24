@@ -1,0 +1,1 @@
+# Vivaldi-Beta.AppImage
